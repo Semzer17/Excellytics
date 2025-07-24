@@ -1,6 +1,4 @@
-Of course. Based on our previous conversations and the code we've built for the "Excellytics" project, here is a comprehensive README file.
 
-```markdown
 # Excellytics: Interactive Excel Data Visualization Platform
 
 Excellytics is a powerful, full-stack MERN application designed to transform raw Excel data into beautiful, interactive 2D and 3D visualizations. Users can upload their Excel files, select data axes, and instantly generate a variety of charts to gain insights from their data. The platform features a secure, multi-user environment with a dedicated admin panel for user and system management.
